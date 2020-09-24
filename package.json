@@ -1,0 +1,29 @@
+{
+  "name": "perf-api",
+  "version": "1.0.0",
+  "description": "This is a handler for performance metrics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Galip Özen",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",git
+    "express": "^4.17.1",
+    "mongoose": "^5.10.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glpzen/perf-api.git"
+  },
+  "keywords": [
+    "ttfb",
+    "fcp"
+  ],
+  "bugs": {
+    "url": "https://github.com/glpzen/perf-api/issues"
+  },
+  "homepage": "https://github.com/glpzen/perf-api#readme"
+}
